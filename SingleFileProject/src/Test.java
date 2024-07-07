@@ -2,7 +2,7 @@
  * Objective: Implement a class hierarchy for Person, Student, Employee, Faculty, and Staff.
  * Algorithm: Create base and derived classes with appropriate properties and methods.
  * Input and Output: Display class names and names of persons.
- * Created by: Gavin Guyote
+ * Created by: Gavin Guyotee
  * Date: 6/13/2024
  */
 
